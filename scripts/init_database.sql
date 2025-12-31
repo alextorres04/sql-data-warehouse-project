@@ -23,7 +23,7 @@ USE DataWarehouse;
 
 
 -- Create Schemas
-create database bronze;
-create database silver;
-create database gold;
+CREATE DATABASE bronze;
+CREATE DATABASE silver;
+CREATE DATABASE gold;
 
